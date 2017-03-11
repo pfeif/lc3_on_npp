@@ -1,0 +1,18 @@
+This is just a simple language file that can be loaded into Notepad++ to make
+LC-3 assembly code easier to look at. I've given it the following rules:
+ * Instructions are blue.
+   * Underlined instructions set the condition code.
+   * Italicized instructions use a program counter offset.
+   * Underlined and italicized instructions do both.
+ * Registers are red.
+ * Numbers are black.
+ * Comments are green.
+ * Pseudo-ops are brown.
+
+To use this language file:
+ * Download the language file.
+ * Open Notepad++.
+ * "Language" menu.
+ * "Define your language..." submenu.
+ * "Import".
+ * Browse for downloaded language file.
