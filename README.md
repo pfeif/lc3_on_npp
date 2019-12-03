@@ -1,4 +1,4 @@
-# LC3 on Npp (An LC-3 Simulator language file for Notepad++)
+# LC3 on NPP (An LC-3 Simulator language file for Notepad++)
 ## About
 This is a user-defined language file that can be loaded into Notepad++ to make
 LC-3 assembly code easier to read, write, and understand. I put this together
