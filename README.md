@@ -15,6 +15,15 @@ style, so I've given it the following rules:
  * Numbers (decimal, hex, and binary) are gold.
  * Comments are green.
 
+## Screenshots
+### Using Notepad++ with this language file
+![NPP with language file](screenshots/npp_with_language_file.png)
+### Using Notepad++'s default settings
+![NPP default settings](screenshots/npp_default.png)
+### Using LC3Edit
+![LC3Edit](screenshots/lc3edit.png)
+
+
 ## Installation
  * Download the language file.
  * Open Notepad++.
